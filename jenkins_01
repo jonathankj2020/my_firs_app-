@@ -1,1 +1,1 @@
-docker network create jenkins 
+docker build -t myjenkins-blueeocean:2.332.3-1 .
